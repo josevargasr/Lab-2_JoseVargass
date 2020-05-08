@@ -24,7 +24,7 @@ static Scanner entrada = new Scanner(System.in);
         ArrayList <Casas> c_espera = new ArrayList();
         ArrayList <Casas> c_demo = new ArrayList();
         while(valid){
-            System.out.println("----BlackFloyd----");
+            System.out.println("-----BlackFloyd-----");
             System.out.println("1] Registro de Casas\n"
                     + "2] Manejo de Estado\n"
                     + "3] Log In\n"
